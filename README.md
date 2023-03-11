@@ -1,4 +1,4 @@
-# race_condition_in_go
+# Race Condition In Go
 
 ## Problem 
 
